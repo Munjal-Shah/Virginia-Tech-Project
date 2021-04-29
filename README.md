@@ -3,7 +3,7 @@
 
 
 -----------------------------------------------------------------------
-##Project Description:
+## Project Description:
 
 Work Sample Exercise: Alphabetizer
 Write a program that can read in a series of strings and output the strings with the characters in alphabetical order.
@@ -11,8 +11,10 @@ Capitalization does not matter for a character, but characters should be output 
 Non-alphabetic characters should be ignored and not included in the output string.
 
 Examples:
-			"VirginiaTech" would be output as "aceghiiinrTV"
-			"3 Blind Mice" would be output as "BcdeiilMn"
+1. "VirginiaTech" would be output as "aceghiiinrTV"
+2. "3 Blind Mice" would be output as "BcdeiilMn"
+			
+
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 
@@ -21,11 +23,7 @@ Following are the commands and the instructions to run this project.
 #### Note: pom.xml is present in Virginia-Tech-Project folder.
 
 -----------------------------------------------------------------------
-## Instruction to clean:
-
-####Command: mvn clean
+## Instruction to clean: mvn clean
 
 -----------------------------------------------------------------------
-## Instruction to compile & run:
-
-####Command: mvn compile exec:java
+## Instruction to compile & run: mvn compile exec:java
