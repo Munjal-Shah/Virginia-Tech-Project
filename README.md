@@ -13,17 +13,12 @@ Non-alphabetic characters should be ignored and not included in the output strin
 Examples:
 1. "VirginiaTech" would be output as "aceghiiinrTV"
 2. "3 Blind Mice" would be output as "BcdeiilMn"
-			
-
 -----------------------------------------------------------------------
------------------------------------------------------------------------
+## Following are the commands and the instructions to run this project:
 
-
-Following are the commands and the instructions to run this project.
-#### Note: pom.xml is present in Virginia-Tech-Project folder.
-
------------------------------------------------------------------------
 ## Instruction to clean: mvn clean
 
------------------------------------------------------------------------
 ## Instruction to compile & run: mvn compile exec:java
+-----------------------------------------------------------------------
+
+Note: pom.xml is present in Virginia-Tech-Project folder.
